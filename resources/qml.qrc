@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Repeticao.qml</file>
+        <file>ListaDeProdutos.qml</file>
+        <file>Card.qml</file>
+        <file>AddProductPopup.qml</file>
+        <file>shopping-cart.svg</file>
+        <file>trash.svg</file>
+    </qresource>
+</RCC>
