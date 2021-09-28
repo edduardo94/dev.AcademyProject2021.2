@@ -10,7 +10,7 @@ Window {
     width: 640
     height: 480
     visible: true
-    title: qsTr("Caixa Dev.Academy")
+    title: qsTr("Dev.Academy")
     Material.accent: Material.Purple
 
     ListModel{
